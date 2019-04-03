@@ -9,16 +9,16 @@
     <Button
         android:id="@+id/button_toast"
         android:layout_width="0dp"
-        android:layout_height="wrap_content"
+        android:layout_height="47dp"
         android:layout_marginStart="8dp"
         android:layout_marginLeft="8dp"
-        android:layout_marginTop="8dp"
         android:layout_marginEnd="8dp"
         android:layout_marginRight="8dp"
         android:background="@color/colorPrimary"
         android:onClick="ShowToast"
         android:text="@string/toast"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
@@ -41,8 +41,8 @@
 
     <TextView
         android:id="@+id/textView_count"
-        android:layout_width="0dp"
-        android:layout_height="193dp"
+        android:layout_width="674dp"
+        android:layout_height="238dp"
         android:layout_marginStart="8dp"
         android:layout_marginLeft="8dp"
         android:layout_marginTop="8dp"
@@ -53,7 +53,7 @@
         android:gravity="center_horizontal|center_vertical"
         android:text="@string/_0"
         android:textColor="@color/colorPrimary"
-        android:textSize="160sp"
+        android:textSize="120sp"
         android:textStyle="bold"
         app:layout_constraintBottom_toTopOf="@+id/button_count"
         app:layout_constraintEnd_toEndOf="parent"

@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity {
     public void Count(View view) {
         //Toast.makeText(this, "Hello Toast", Toast.LENGTH_LONG).show();
         mcount++;
-        textcount.setText(""+mcount);
+        textcount.setText(""+ mcount);
     }
 
 

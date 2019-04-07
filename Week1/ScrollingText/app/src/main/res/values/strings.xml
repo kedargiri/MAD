@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Scrolling Text</string>
+    <string name="textview">Beatles Anthology Vol.1</string>
+    <string name="article_title">This is Title</string>
+    <string name="article_subtitle">Behind The Locked Door What is Lorem Ipsum?</string>
+    <string name="article_text">\n\nIn a real app that accesses magazine or newspaper <b>articles,Place the cursor on the hardcoded string</b>, hen edit the Resource name edit the Resource name to padding_regular. Place the cursor on the hardcoded string, press Alt-Enter (Option-Enter on the Mac), and select Extract dimension resource. Make sure that the Create the resource in directories option is selected, and then edit the Resource name to padding_regular. the articles that appear would probably come from an online source through
+\n\n
+       <b> a content provider </b>
+        \n\n
+        <i><b>In a real app that accesses</b> magazine or newspaper, hen edit the Resource name edit the Resource name to padding_regular. Place the cursor on the har</i>
+        <i>in a database on the device. In a real app that accesses magazine or ne.
+        \n\n
+            <b>Real Hero:</b>  Azine or newspaper, hen edit the Resource name edit the Resource name to padding_regular. Place the cursor on the har
+        in a database on the device. In a real app that accesses magazine or ne.\n\n
+
+
+
+
+        </i></string>>
+</resources>
